@@ -1,0 +1,11 @@
+﻿This is the Java Project made in my Semester 3 as a part of the Programming Languages II Course. 
+It was fun creating this game.
+
+Its the Brick Breaker game that one used to find in Blackberry phones!
+
+
+
+
+Usage:
+For Installation: Download the files and run the command < javac BrickBreaker.java > on terminal
+For running the java application: Run the command < java BrickBreaker > on terminal
